@@ -31,7 +31,6 @@ adityaverma_bitsom_ba_2511044_part2_kpi_experiment/
 │   ├── summary_metrics.png        ← 6-panel metric comparison bars
 │   ├── hypothesis_test_output.png ← Test results + segment breakdowns
 │   └── kpi_tree_preview.png       ← KPI tree visual copy
-├── part2_main.py                  ← Full processing script
 └── README.md
 ```
 
