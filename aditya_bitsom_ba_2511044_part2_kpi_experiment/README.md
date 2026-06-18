@@ -1,7 +1,7 @@
 # Part 2: KPI Framework, Business Experiment Analysis & Decision
 
 **Student:** Aditya Verma | **ID:** `bitsom_ba_2511044`  
-**Repository:** `aditya_bitsom_ba_2511044_part2_kpi_experiment`  
+**Repository:** `adityaverma_bitsom_ba_2511044_part2_kpi_experiment`  
 **Tool Stack:** Python 3 (pandas, scipy, statsmodels, xlsxwriter, matplotlib)
 
 ---
@@ -17,7 +17,7 @@ A SaaS company ran an A/B experiment with a new marketing campaign treatment to 
 ## Repository Structure
 
 ```
-aditya_bitsom_ba_2511044_part2_kpi_experiment/
+adityaverma_bitsom_ba_2511044_part2_kpi_experiment/
 ├── data/
 │   └── campaign_experiment_data.xlsx
 ├── analysis/
